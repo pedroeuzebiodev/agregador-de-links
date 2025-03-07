@@ -1,17 +1,17 @@
 :root {
-  --background: hsl(222.2 84% 4.9%);
-  --foreground: hsl(210 40% 98%);
-  --primary: hsl(217.2 91.2% 59.8%);
-  --primary-foreground: hsl(222.2 47.4% 11.2%);
-  --secondary: hsl(217.2 32.6% 17.5%);
-  --muted-foreground: hsl(215 20.2% 65.1%);
+  --background: #020817;
+  --foreground: #f8fafc;
+  --primary: #3b82f6;
+  --primary-foreground: #0f172a;
+  --secondary: #1e293b;
+  --muted-foreground: #94a3b8;
 }
 
 .light {
-  --background: hsl(0 0% 100%);
-  --foreground: hsl(222.2 84% 4.9%);
-  --primary: hsl(221.2 83.2% 53.3%);
-  --primary-foreground: hsl(210 40% 96.1%);
-  --secondary: hsl(210 40% 98%);
-  --muted-foreground: hsl(215.4 16.3% 46.9%);
+  --background: #ffffff;
+  --foreground: #020817;
+  --primary: #2563eb;
+  --primary-foreground: #f1f5f9;
+  --secondary: #f8fafc;
+  --muted-foreground: #64748b;
 }
