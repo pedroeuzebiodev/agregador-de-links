@@ -1,0 +1,12 @@
+footer {
+  padding: 2.4rem 0 5.6rem;
+}
+
+footer p {
+  line-height: 2.4rem;
+
+  font-size: 1.4rem;
+  font-weight: 300;
+
+  text-align: center;
+}

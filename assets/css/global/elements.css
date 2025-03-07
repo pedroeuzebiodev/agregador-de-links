@@ -1,0 +1,7 @@
+body {
+  background: var(--background);
+}
+
+body * {
+  color: var(--foreground);
+}

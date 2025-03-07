@@ -1,0 +1,45 @@
+#switch {
+  position: absolute;
+  top: 2.4rem;
+  right: 2.4rem;
+  width: 6.4rem;
+}
+
+#switch #switch-button {
+  width: 3.2rem;
+  height: 3.2rem;
+
+  border: 1px solid var(--primary-foreground);
+  border-radius: 50%;
+
+  background-color: var(--secondary);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+
+  animation: 0.3s slide-back forwards;
+}
+
+#switch #switch-button:hover {
+  outline: 0.8rem solid rgba(255, 255, 255, 0.3);
+}
+
+.light #switch #switch-button {
+  animation: 0.3s slide-in forwards;
+}
+
+#switch #switch-track {
+  display: block;
+  width: 6.4rem;
+  height: 2.4rem;
+
+  background-color: var(--muted-foreground);
+
+  border: 1px solid var(--foreground);
+  border-radius: 999.9px;
+}
