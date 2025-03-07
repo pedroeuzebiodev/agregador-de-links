@@ -33,3 +33,9 @@
   background: var(--primary-foreground);
   border: 1.5px solid var(--foreground);
 }
+
+@media (width >= 768px) {
+  #links .link {
+    font-size: 1.8rem;
+  }
+}
