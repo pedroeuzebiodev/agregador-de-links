@@ -26,7 +26,7 @@
 }
 
 #switch #switch-button:hover {
-  outline: 0.8rem solid rgba(255, 255, 255, 0.3);
+  outline: 0.8rem solid #ffffff4d;
 }
 
 .light #switch #switch-button {
