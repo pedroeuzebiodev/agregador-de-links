@@ -2,12 +2,12 @@
   position: absolute;
   top: 3rem;
   right: 3rem;
-  width: 6.4rem;
+  width: 7.2rem;
 }
 
 #switch #switch-button {
-  width: 3.2rem;
-  height: 3.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
 
   border: 1px solid var(--primary-foreground);
   border-radius: 50%;
@@ -33,10 +33,14 @@
   animation: 0.3s slide-in forwards;
 }
 
+#switch #switch-button #icon-button-switch {
+  font-size: 1.8rem;
+}
+
 #switch #switch-track {
   display: block;
-  width: 6.4rem;
-  height: 2.4rem;
+  width: 7.2rem;
+  height: 3rem;
 
   background-color: var(--muted-foreground);
 

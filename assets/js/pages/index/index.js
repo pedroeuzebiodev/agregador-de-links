@@ -1,6 +1,8 @@
 const body = document.querySelector("body");
 const switchButton = document.querySelector("#switch #switch-button");
-const switchButtonIcon = document.querySelector("#switch #switch-button #icon");
+const switchButtonIcon = document.querySelector(
+  "#switch #switch-button #icon-button-switch"
+);
 
 const toggleMode = () => {
   body.classList.toggle("light");
