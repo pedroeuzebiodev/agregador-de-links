@@ -1,19 +1,19 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedroeuzebiodev/pedroeuzebio-links?color=3b82f6" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedroeuzebiodev/agregador-de-links?color=3b82f6" />
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedroeuzebiodev/pedroeuzebio-links" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedroeuzebiodev/agregador-de-links" />
 
-  <a href="https://github.com/pedroeuzebiodev/pedroeuzebio-links/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedroeuzebiodev/pedroeuzebio-links" />
+  <a href="https://github.com/pedroeuzebiodev/agregador-de-links/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedroeuzebiodev/agregador-de-links" />
   </a>
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen" />
 
-   <a href="https://github.com/pedroeuzebiodev/pedroeuzebio-links/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/pedroeuzebiodev/pedroeuzebio-links?style=social" />
+   <a href="https://github.com/pedroeuzebiodev/agregador-de-links/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/pedroeuzebiodev/agregador-de-links?style=social" />
   </a>
 
-  <a href="https://pedroeuzebiolinks.vercel.app">
+  <a href="https://pedroeuzebiodev.github.io/agregador-de-links">
     <img alt="Feito pelo Pedro Euzebio" src="https://img.shields.io/badge/feito%20por-Pedro%20Euzebio-3b82f6" />
   </a>
 </p>
@@ -55,7 +55,7 @@
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/design/rozUs5yjrUx3CSG6gpEQtN/Pedro-Euzebio-%7C-Links?node-id=0-1&t=UejDxxVj0MBMvjXL-1">
+<a href="#">
   <img alt="Made by Pedro Euzebio" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
@@ -84,10 +84,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:pedroeuzebiodev/pedroeuzebio-links.git
+$ git clone git@github.com:pedroeuzebiodev/agregador-de-links.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd pedroeuzebio-links
+$ cd agregador-de-links
 
 # Abra o arquivo index.html com a extensão Live Server do VS Code
 
@@ -109,7 +109,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Utilitários**
 
-- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Pedro Euzebio | Links)](https://www.figma.com/design/rozUs5yjrUx3CSG6gpEQtN/Pedro-Euzebio-%7C-Links?node-id=0-1&t=UejDxxVj0MBMvjXL-1)**
+- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Pedro Euzebio | Links)](#)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
 - Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 - Commit Conventional: **[Commitlint](https://github.com/conventional-changelog/commitlint)**
@@ -133,9 +133,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
       </a>
       <a href="https://www.linkedin.com/in/pedroeuzebio" class="contato">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://www.youtube.com/@pedroeuzebiodev" class="contato">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white" />
       </a>
 
 ---
