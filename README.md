@@ -29,7 +29,6 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> •
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-autor">Autor</a> •
@@ -38,7 +37,7 @@
 
 ## 💻 Sobre o projeto
 
-💜 Pedro Euzebio | Links - é um agregador de links responsivo e com troca de tema como cartão de visitas para meus links.
+🔗 Pedro Euzebio | Links - é um agregador de links responsivo e com troca de tema como cartão de visitas para meus links.
 
 ---
 
@@ -50,14 +49,6 @@
   - [x] Tema claro
 
 ---
-
-## 🎨 Layout
-
-O layout da aplicação está disponível no Figma:
-
-<a href="#">
-  <img alt="Made by Pedro Euzebio" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
 
 ### Mobile
 
@@ -109,7 +100,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Utilitários**
 
-- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Pedro Euzebio | Links)](#)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
 - Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 - Commit Conventional: **[Commitlint](https://github.com/conventional-changelog/commitlint)**
@@ -121,19 +111,24 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://www.linkedin.com/in/pedroeuzebio">
- <img style="border-radius: 50%;" src="https://i.imgur.com/dJmzEPE.png" width="100px;" alt=""/>
- <br />
- <sub><b>Pedro Euzebio</b></sub>
+  <img style="border-radius: 50%;" src="https://i.imgur.com/dJmzEPE.png" width="100px;" alt="" />
+
+  <br />
+
+  <sub>
+    <b>Pedro Euzebio</b>
+  </sub>
 </a>
 
 <br>
 
 <a href="mailto:pedroeuzebio.contato@gmail.com" class="contato">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
-      </a>
-      <a href="https://www.linkedin.com/in/pedroeuzebio" class="contato">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
-      </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/pedroeuzebio" class="contato">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
