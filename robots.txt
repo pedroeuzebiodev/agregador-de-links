@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://pedroeuzebiodev.github.io/agregador-de-links/sitemap.xml
+Sitemap: https://pedroeuzebiolinks.vercel.app/sitemap.xml
