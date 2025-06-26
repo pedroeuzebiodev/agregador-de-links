@@ -1,7 +1,7 @@
 const body = document.querySelector("body");
 const switchButton = document.querySelector("#switch #switch-button");
 const switchButtonIcon = document.querySelector(
-  "#switch #switch-button #icon-button-switch"
+  "#switch #switch-button #switch-button-icon"
 );
 const img = document.querySelector("header img");
 
