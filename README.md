@@ -19,7 +19,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="Pedro Euzebio" title="Pedro Euzebio" src="https://i.imgur.com/gFIozd6.png" />
+  <img alt="Pedro Euzebio" title="Pedro Euzebio" src="https://i.imgur.com/daOHGDW.png" />
 </h1>
 
 <h4 align="center">
