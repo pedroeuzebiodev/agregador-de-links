@@ -2,6 +2,7 @@
   position: absolute;
   top: 3rem;
   right: 3rem;
+
   width: 7.2rem;
 }
 
@@ -20,6 +21,7 @@
 
   position: absolute;
   top: 50%;
+
   transform: translateY(-50%);
 
   animation: 0.3s slide-back forwards;
@@ -39,6 +41,7 @@
 
 #switch #switch-track {
   display: block;
+
   width: 7.2rem;
   height: 3rem;
 
