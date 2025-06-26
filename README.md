@@ -23,7 +23,7 @@
 </h1>
 
 <h4 align="center">
- 🚧  Agregador de Links 🔗 Concluído 🚀 🚧
+ 🚧  Pedro Euzebio | Links 🔗 Concluído 🚀 🚧
 </h4>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 ## 💻 Sobre o projeto
 
-🔗 Agregador de links responsivo e com troca de tema como cartão de visitas para meus links.
+🔗 Pedro Euzebio | Links - é um agregador de links responsivo e com troca de tema como cartão de visitas para meus links.
 
 ---
 
@@ -57,12 +57,16 @@
 
 <p align="center">
   <img alt="Pedro Euzebio | Links" title="Pedro Euzebio | Links" src="./.github/preview-mobile.png" width="200px">
+
+  <img alt="Pedro Euzebio | Links" title="Pedro Euzebio | Links" src="./.github/preview-mobile-light.png" width="200px">
 </p>
 
 ### Web
 
 <p align="center">
   <img alt="Pedro Euzebio | Links" title="Pedro Euzebio | Links" src="./.github/preview-web.png" width="400px">
+
+  <img alt="Pedro Euzebio | Links" title="Pedro Euzebio | Links" src="./.github/preview-web-light.png" width="400px">
 </p>
 
 ---
@@ -114,7 +118,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://www.linkedin.com/in/pedroeuzebio">
-  <img style="border-radius: 50%;" src="https://github.com/pedroeuzebiodev.png" width="100px;" alt="" />
+  <img style="border-radius: 50%;" src="https://i.imgur.com/uieVTmO.png" width="100px;" alt="" />
 
   <br />
 
