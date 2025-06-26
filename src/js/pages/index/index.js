@@ -11,11 +11,11 @@ const toggleMode = () => {
   if (body.classList.contains("light")) {
     switchButtonIcon.setAttribute("name", "sunny-outline");
 
-    img.setAttribute("src", "./assets/images/pages/index/logo-light.png");
+    img.setAttribute("src", "./src/images/pages/index/logo-light.png");
   } else {
     switchButtonIcon.setAttribute("name", "moon-outline");
 
-    img.setAttribute("src", "./assets/images/pages/index/logo.png");
+    img.setAttribute("src", "./src/images/pages/index/logo.png");
   }
 };
 
