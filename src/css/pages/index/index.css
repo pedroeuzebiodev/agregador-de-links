@@ -1,6 +1,6 @@
 @import url(../../global/global.css);
 
 @import url(./partials/app.css);
+@import url(./partials/switch.css);
 @import url(./partials/header.css);
 @import url(./partials/links.css);
-@import url(./partials/switch.css);
